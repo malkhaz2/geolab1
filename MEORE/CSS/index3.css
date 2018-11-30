@@ -1,0 +1,81 @@
+body{
+	background-color: white;
+	margin-left: 20px;
+	list-style-type:none;
+	margin-right: 60px;
+}
+#ee{
+	display: inline-block;
+	width: 150px;
+   	height: 80px;
+}
+#p1{
+	background-color: blue;
+	display:inline-block;
+	font-size:50px;
+	color:white;
+}
+#p2{
+	margin-top: -50px;
+	font-size: 20px;
+	color: blue;
+}
+#h1{
+	font-size: 40px;
+
+}
+.qq{
+     color: blue;
+     font-size:20px;
+     
+
+}
+.qqq{
+	color: red;
+     font-size:20px;
+     
+     
+
+}
+.qqqq{
+	color: blue;
+     font-size:20px;
+     
+
+}
+a:link {
+    text-decoration: none;
+    color: blue;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: none;
+    color:blue;
+}
+
+a:active {
+    text-decoration: none;
+    color: blue;
+}
+li {
+	padding: 0px 15px 15px 0px;
+}
+.facebook {
+	border-right: 2px solid grey;
+	margin-right: 20px;
+	padding-right: 40px;
+}
+.facebook, .youtube {
+	width: 30px;
+	height: 20px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+li {
+	padding: 0px 15px 15px 0px;
+}
